@@ -60,7 +60,7 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'js/libs/libs.min.js': [jsLibs],
-          'js/libs/boostrap.min.js': [jsBootstrap],
+          'js/libs/bootstrap.min.js': [jsBootstrap],
           'js/app.min.js': [jsApp]
         }
       }

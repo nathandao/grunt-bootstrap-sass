@@ -21,5 +21,6 @@ Stylesheet:
 Javascripts:
 ```html
 <script src="js/libs/libs.min.js"></script>
+<script src="js/libs/bootstrap.min.js"></script>
 <script src="js/app.min.js"></script>
 ```

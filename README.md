@@ -9,6 +9,14 @@ npm install && bower install
 grunt build && grunt watch
 ```
 
+## Customizing Boostrap
+
+Go through Gruntfile.js and include your required javascripts.
+
+Check scss/app.scss to see options of including serparate bootstrap components if you need to.
+
+Customizing bootstrap varialbes in scss/_variables.scss
+
 ## Usage
 
 Add these files to your project's html

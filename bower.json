@@ -1,0 +1,8 @@
+{
+  "name": "grunt-bootstrap-sass",
+  "version": "0.0.1-beta",
+  "dependencies": {
+    "jquery": ">= 1.9.0",
+    "bootstrap-sass-official": "> 0.0.0"
+  }
+}
